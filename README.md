@@ -1,2 +1,2 @@
-# galloc
+# Galloc
 Memory allocators
